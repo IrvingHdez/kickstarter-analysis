@@ -1,4 +1,4 @@
-# kickstarter-analysis on Excel and fork
+# kickstarter-analysis on Excel and fork.
 
 ## Overview of Project
 
