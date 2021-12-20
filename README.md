@@ -1,15 +1,15 @@
 # kickstarter-analysis on Excel and fork.
 
 ## Excel sheet with analysis
-[Link to GitHub*](https://github.com/IrvingHdez/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
+[Link to GitHub](https://github.com/IrvingHdez/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
 
 ## Overview of Project
-* Utilize the built-in tools of excel to get important statistical information and formulate an analysis based on the data *
-* From the analyzed dataset, answer the question *
+*Utilize the built-in tools of excel to get important statistical information and formulate an analysis based on the data*
+*From the analyzed dataset, answer the question*
 - how different campaigns fared in relation to their launch dates and their funding goals.
 
 ### Purpose
-* To learn advanced features of excel such as PivotTables and PivotCharts as well as excel formulas.
+*To learn advanced features of excel such as PivotTables and PivotCharts as well as excel formulas.
 Also to publish the results on a file storage and version control software such as GitHub*
 
 ## Analysis and Challenges
@@ -21,8 +21,8 @@ Also to publish the results on a file storage and version control software such 
 ![Plays Outcomes vs Goals](https://github.com/IrvingHdez/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-* - A challenge could be when new data has to be dynamically added over time since the analysis would have to be re-done.*
-* - If data is not well formatted then it would have to be cleaned up before starting the analysis *
+*- A challenge could be when new data has to be dynamically added over time since the analysis would have to be re-done.*
+*- If data is not well formatted then it would have to be cleaned up before starting the analysis*
 
 ## Results
 
@@ -38,7 +38,7 @@ Based on the extracted data we can derive the following:
   - Not a sigle play campaign was cancelled.
 
 - What are some limitations of this dataset?
-* limited historical data *
+*limited historical data*
 
 - What are some other possible tables and/or graphs that we could create?
-* Bar chart to visualize the goal amounts per category/sub-category * 
+*Bar chart to visualize the goal amounts per category/sub-category* 
